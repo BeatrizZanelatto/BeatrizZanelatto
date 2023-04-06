@@ -11,10 +11,9 @@ on:
   workflow_dispatch:
 
 # Regras
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
+      jobs:
+       runs-on: ubuntu-latest
+          steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
