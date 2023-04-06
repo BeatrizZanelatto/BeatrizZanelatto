@@ -1,6 +1,6 @@
 ## Olá! Eu sou a BeatrizZanelatto :)
 
-- 🌱 Conta de estudos
+- 🌱 𝒞𝑜𝓃𝓉𝒶 𝒹𝑒 𝑒𝓈𝓉𝓊𝒹𝑜𝓈!
 
 [![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizZanelatto)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizZanelatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,3 +17,7 @@
   
   ##
  
+<div> 
+  <a href="https://www.instagram.com/beatriz_zanelatto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:beatrizzanelatt6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
