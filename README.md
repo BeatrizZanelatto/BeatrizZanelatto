@@ -15,10 +15,9 @@
   <img align="center" alt="Elane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Beatriz-pic" height="200" width="200" style="border-radius:50% " src="https://user-images.githubusercontent.com/104568663/230480076-88236b7a-9ef5-4de1-b847-da8b22dfc63c.gif">
 </div>
-
   
   ##
- </br>
+  
 </br>
 <div> 
   <a href="https://www.instagram.com/beatriz_zanelatto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
