@@ -12,8 +12,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BeatrizZanelatto&bg_color=ffc0cb&color=000000&line=dc143c&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
-##
-Languages
 <div align="file">
    <img align="file" alt="Beatriz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="file" alt="Beatriz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,8 +20,6 @@ Languages
   <img align="file" alt="Beatriz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
-Contacts
   <div style="display: inline_block"><br>
    <img align="right" alt="Beatriz-pic" height="200" width="200" style="border-radius:50% " src="https://user-images.githubusercontent.com/104568663/230480076-88236b7a-9ef5-4de1-b847-da8b22dfc63c.gif">
 </div>
