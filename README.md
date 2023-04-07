@@ -22,6 +22,7 @@
 
   <div style="display: inline_block"><br>
    <img align="right" alt="Beatriz-pic" height="200" width="200" style="border-radius:50% " src="https://user-images.githubusercontent.com/104568663/230480076-88236b7a-9ef5-4de1-b847-da8b22dfc63c.gif">
+    ![Snake animation](https://github.com/BeatrizZanelatto/BeatrizZanelatto/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
