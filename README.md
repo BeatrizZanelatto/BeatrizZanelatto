@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Beatriz+Zanelatto;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BeatrizZanelatto&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFC0CB" alt="Beatriz Zanelatto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizZanelatto&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=FFC0CB" />
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BeatrizZanelatto&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFC0CB" alt="Beatriz Zanelatto github stats" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizZanelatto&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=FFC0CB" />
 </div>
 
 ##
