@@ -9,8 +9,6 @@
 
 ##
 
-(https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </br>
 <div align="file">
    <img align="file" alt="Beatriz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
